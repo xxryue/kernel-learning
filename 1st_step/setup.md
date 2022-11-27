@@ -1,4 +1,4 @@
-#install qemu
+# install qemu
 
 * You may need to install ninja
 
