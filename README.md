@@ -1,2 +1,2 @@
-# dengtaishan
+# kernel learning
 Learning kernel things
